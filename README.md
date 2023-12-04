@@ -28,8 +28,8 @@
 | --------------- | ----- | ------- | ------ | ----- | ---- |
 | Buy product     | X     | X       |        |       | 		|
 | Create product  |       |         | X      |       |		|
-| Account Manager |       |         |        | x     |		|
-| Order manager   |       |         | X      |       |x		|
+| Account Manager |       |         |        | X     |		|
+| Order manager   |       |         | X      |       |X		|
 | Manage System   |       |         |        | X     |		|
 
 # Implementation
