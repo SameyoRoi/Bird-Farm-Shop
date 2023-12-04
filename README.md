@@ -1,15 +1,15 @@
 <img src="web/UI/Icon/Ficon.png" alt="drawing" width="100" height="100"/>
 
-# Academic Blog System
+# Bird Farm Shop System
 
 - This is a system allows users to buy bird from bird farm.
 
 # Team
 
 - Our team consists of 3 peoples:
-		- Nguyễn Kỳ Anh Minh
-		- Huỳnh Phước Tấn
-		- Nguyễn Đức Anh
+		- Nguyễn Kỳ Anh Minh(Front end, Back end, tester, document)
+		- Huỳnh Phước Tấn(Front end, Back end, database, document)
+		- Nguyễn Đức Anh(Front end, Back end)
 
 # Technology
 - Front-end : Bootstrap, javascript
