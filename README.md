@@ -32,34 +32,6 @@
 | Order manager   |       |         | X      |       |X		|
 | Manage System   |       |         |        | X     |		|
 
-# Implementation
 
-## Login Page
-![Login Page](readme-assets/login.png)
-## Register Page
-![Register Page](readme-assets/register.png)
-
-## Home Page
-![Home Page1](readme-assets/home1.png)
-![Home Page2](readme-assets/home2.png)
-
-## Search Blog
-![Search](readme-assets/search.png)
-
-## View a Blog
-![View Blog](readme-assets/detail.png)
-
-## Comment and Rating
-![Comment And Rating](readme-assets/comment.png)
-
-## Edit a Blog
-![Edit Blog](readme-assets/edit.png)
-
-## Supervise Blog
-![Supervise Blog](readme-assets/pendingedit.png)
-
-## View own blog and profile
-![Profile](readme-assets/profile.png)
-![BlogList](readme-assets/list.png)
 
 
